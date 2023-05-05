@@ -1,0 +1,17 @@
+
+Shop Details
+MiniMart
+1200X700
+B003
+17000
+Badda
+images/minimart.png
+
+Shop Details
+Book
+800*600
+23
+12000
+Khilkhet
+images/book.png
+
